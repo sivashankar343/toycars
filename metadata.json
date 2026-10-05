@@ -1,0 +1,6 @@
+{
+  "name": "Apex Toys Garage & Speedway",
+  "description": "Interactive toy car workshop, customizer, stunt track speedway, and collector vault for die-cast, monster trucks, and RC vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
